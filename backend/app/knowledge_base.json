@@ -1,0 +1,58 @@
+[
+  {
+    "id": "ev001",
+    "source": "Cochrane systematic review on coffee and cardiovascular disease",
+    "domain": "official",
+    "credibility": 90,
+    "text": "Moderate coffee consumption of three to four cups per day is associated with a modest reduction in cardiovascular risk in observational studies, but no study shows coffee completely prevents heart disease. Genetics, diet, exercise and smoking remain major independent risk factors."
+  },
+  {
+    "id": "ev002",
+    "source": "American Heart Association scientific statement",
+    "domain": "official",
+    "credibility": 92,
+    "text": "Coffee is not a treatment or a cure for heart disease. It is one dietary factor among many. People with existing heart conditions should consult a doctor before changing caffeine intake."
+  },
+  {
+    "id": "ev003",
+    "source": "TCS official careers portal",
+    "domain": "official",
+    "credibility": 95,
+    "text": "Tata Consultancy Services announces recruitment drives only through www.tcs.com/careers and its verified LinkedIn page. No fee is ever charged for applying, interviewing or receiving an offer letter at any stage of recruitment."
+  },
+  {
+    "id": "ev004",
+    "source": "Press Information Bureau fact check unit",
+    "domain": "official",
+    "credibility": 93,
+    "text": "Several viral social media posts claiming mass hiring drives at major IT companies with links to external application forms have been found to be fraudulent job scams designed to collect registration fees or personal documents."
+  },
+  {
+    "id": "ev005",
+    "source": "Agmarknet daily mandi price bulletin",
+    "domain": "official",
+    "credibility": 88,
+    "text": "Wholesale onion prices vary by market and date. A price is considered low relative to a specific historical baseline, such as the trailing thirty or ninety day average for a named market, not as an absolute statement without location or time period."
+  },
+  {
+    "id": "ev006",
+    "source": "Department of Consumer Affairs price monitoring report",
+    "domain": "official",
+    "credibility": 85,
+    "text": "Retail onion prices can differ substantially from wholesale mandi prices due to transport, storage and retailer margins. Claims about onion prices should specify whether they refer to retail or wholesale rates."
+  },
+  {
+    "id": "ev007",
+    "source": "World Health Organization nutrition fact sheet",
+    "domain": "official",
+    "credibility": 90,
+    "text": "No single food or beverage has been shown to completely prevent a chronic disease. Chronic disease risk is influenced by a combination of genetic, environmental and lifestyle factors over time."
+  },
+  {
+    "id": "ev008",
+    "source": "National Consumer Helpline advisory",
+    "domain": "official",
+    "credibility": 84,
+    "text": "Job postings that request a refundable security deposit, registration fee or training fee before an offer letter is issued are a common pattern in recruitment fraud, regardless of which company name is used in the post."
+  }
+]
